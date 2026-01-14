@@ -64,4 +64,5 @@ The model successfully detects abnormal sensor readings and highlights them on a
 ---
 
 ## Author
-Your Name
+Anula Biju
+
